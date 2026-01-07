@@ -5,7 +5,7 @@ const services = [
   {
     title: "Individual Therapy",
     duration: "50 Minutes",
-    price: "$150",
+    price: "£150",
     description: "One-on-one sessions tailored to your personal goals. We focus on developing coping skills and self-understanding.",
     features: ["Secure Video Link", "Weekly or Bi-weekly", "Personalized Growth Plan"]
   },
@@ -19,7 +19,7 @@ const services = [
   {
     title: "Couples Counseling",
     duration: "60 Minutes",
-    price: "$185",
+    price: "£185",
     description: "Joint sessions focused on improving communication, resolving conflict, and strengthening your partnership.",
     features: ["Collaborative Space", "Conflict Resolution", "Communication Tools"]
   }
